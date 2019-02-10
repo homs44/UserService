@@ -2,4 +2,4 @@ print("index")
 
 print("update")
 
-print("success")
+print("2")
