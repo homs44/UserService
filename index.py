@@ -1,1 +1,3 @@
 print("index")
+
+print("update")
